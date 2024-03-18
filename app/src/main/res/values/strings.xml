@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyContactList</string>
+
+
+    <string name="bt_welcome_text">Start</string>
+
+    <string name="iv_content_description">iv content description</string>
+    <string name="fab_content_description">fab content description</string>
+
+
+    <string name="user_name_preview">ФИО: %1$s</string>
+    <string name="user_address_preview">Адрес: %1$s</string>
+    <string name="user_phone_preview">Телефон: %1$s</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="def_user_name">Иванов Иван Иванович</string>
+    <string name="tv_phone_title">телефон :</string>
+    <string name="def_user_phone">+7 (XXX) XXX XX XX</string>
+    <string name="tv_email_title">email :</string>
+    <string name="def_user_email">xxxxxxxxx@xxxxxxxx.com</string>
+
+    <string name="tv_address_title">Адрес :</string>
+    <string name="def_user_address">ул. Мойка дом ... </string>
+
+
+    <string name="tv_latitude_title">Широта :</string>
+    <string name="def_user_latitude">xxxxxxxxxxx</string>
+    <string name="tv_longitude_title">Долгота :</string>
+    <string name="def_user_longitude">xxxxxxxxxxx</string>
+
+
+    <string name="err_get_user_list">Не удалось получить список пользователей</string>
+    <string name="send_email_err">Не удалось открыть приложение для отправки Email</string>
+    <string name="send_call_err">Не удалось открыть приложение для звонка</string>
+    <string name="send_map_err">Не удалось открыть приложение геолокации</string>
+
+
+</resources>

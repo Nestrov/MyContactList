@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="main_bt_style" parent="@style/Widget.Material3.Button">
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="main_bt_outline_style" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+</resources>

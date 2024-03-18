@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyContactList" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item> <!-- цвет основных поверхностей, к примеру цвет основной кнопки -->
+        <item name="colorPrimaryVariant">@color/purple_700</item> <!-- варант основного цвета -->
+        <item name="colorOnPrimary">@color/black</item> <!-- цвет текста на основных поверхностях -->
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item> <!-- цвет вспомогательных поверхностей, к примеру галочка у CheckBox -->
+        <item name="colorSecondaryVariant">@color/teal_700</item> <!-- варант вспомогательного цвета -->
+        <item name="colorOnSecondary">@color/black</item> <!-- цвет текста на вспомогательных поверхностях -->
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+    </style>
+</resources>
